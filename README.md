@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Chethan, a Student full-stack developer and a DataScience enthusiast👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Chethan, a Student full-stack developer and a DataScience enthusiast👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Machine Learning Projects  
