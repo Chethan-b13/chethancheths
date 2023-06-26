@@ -3,22 +3,31 @@
 </div>  
   
 
-### <div align="center">I'm Chethan, a Student full-stack developer and a DataScience enthusiast👨‍💻</div>  
-  
+### <div align="center">👋 I'm Chethan, a Student full-stack developer and a Data Scientist👨‍💻</div>  
 
-- 🔭 I’m currently working on Machine Learning Projects  
-  
+🎓 Graduated with a B.E. in Computer Science and Engineering from SJB Institute of Technology
 
-- 🌱 I’m currently learning Deep Learning and NLP  
-  
+💼 Experienced in developing Flask APIs, building deep learning models, and implementing machine learning pipelines
 
-- ❓ Ask me about anything related to Python and related technologies  
-  
+🔍 Skilled in working with BigQuery for efficient backend data management
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+💻 Proficient in Django and React frameworks for web development
 
-<br/>  
+🚀 Passionate about leveraging technology to solve complex problems and create user-friendly applications
+
+🔭 Always exploring new possibilities in the world of software development and data science
+
+📚 Continuously learning and updating knowledge in Python, Java, SQL, HTML, CSS, and more
+
+📊 Excited about machine learning and deep learning, and proficient in libraries such as TensorFlow, Keras, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, and Streamlit
+
+🐳 Familiar with DevOps tools like Docker, Docker Compose, and Kubernetes
+
+📁 Find my projects and contributions on GitHub: [github.com/chethancheths](http://www.github.com/chethancheths)
+
+📫 Let's connect! Reach me at chethanb1321@gmail.com or +91 7022381576
+
+Let's collaborate and create remarkable software solutions using the power of BigQuery, Django, and React!
 
 
 ## My Skill Set  
