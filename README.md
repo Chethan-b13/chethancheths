@@ -3,7 +3,7 @@
 </div>  
   
 
-###👋 I'm Chethan, a Student full-stack developer and a Data Scientist👨‍💻
+### 👋 I'm Chethan, a Student full-stack developer and a Data Scientist👨‍💻
 
 🎓 Graduated with a B.E. in Computer Science and Engineering from SJB Institute of Technology
 
